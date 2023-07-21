@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/nikan-khadka-6b9340212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishal dali" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Nikankhadka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bishal shreshta" height="30" width="40" /></a>
-<a href="https://instagram.com/bishal_st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bishal_st" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nikan_khadka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bishal_st" height="30" width="40" /></a>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishaldali" alt="bishaldali" /></a> </p>
