@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Nikan Khadka</h1>
-<h3 align="center">MERN-Stack Developer from Nepal</h3>
+<h3 align="center">Software Developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishaldali&label=Profile%20views&color=0e75b6&style=flat" alt="bishaldali" /> </p>
 
 - 🔭 I’m currently working on **E-commerce**
 
-- 🌱 I’m currently learning **Reactjs and Flutter.**
+- 🌱 I’m currently learning **React Native and Golang.**
 
-- 💬 Ask me about **node, nest, javascript, TS,.**
+- 💬 Ask me about **node, nest, javascript, TS, Next js, Mongodb, Sql, Docker.**
 
 - 📫 How to reach me **nikan.khadka.925@gmail.com**
 
-- ⚡ Fun fact **I am not happy.**
+- ⚡ Fun fact **I am not happy, please give me job.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
