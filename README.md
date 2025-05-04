@@ -1,73 +1,72 @@
-<h1 align="center">Hi 👋, I'm Nikan Khadka</h1>
-<h3 align="center">A Passionate Software Developer from Nepal</h3>
+# Hi, I'm Nikan Khadka 👋
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-- 🔭 I’m currently working on **E-commerce applications**
-- 🌱 Exploring **React Native** and diving deeper into **Go (Golang)**
-- 💬 Ask me about **Node.js, NestJS, JavaScript, TypeScript, Next.js, MongoDB, SQL, Docker**
-- 📫 Reach me at **nikan.khadka.925@gmail.com**
-- ⚡ Fun fact: *Still waiting for that dream job offer 💼😉*
+I'm a software developer based in Nepal, currently living in Sydney, Australia. I specialize in building scalable full-stack applications with clean architecture and a user-centered mindset. I enjoy taking ownership of projects, leading teams, and delivering practical solutions.
 
 ---
 
-### 🌐 Connect with me:
+### 🚀 What I'm Working On
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nikan-khadka-6b9340212/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nikan Khadka | LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/Nikankhadka" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nikan Khadka | Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/nikan_khadka/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nikan Khadka | Instagram" height="30" width="40" />
-  </a>
-</p>
+- Developing full-stack **E-commerce** platforms  
+- Learning **React Native** and **Go**  
+- Enhancing team collaboration through effective project planning and sprint execution
 
 ---
 
-### 🛠️ Languages & Tools
+### 💼 Experience
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-</p>
+**Software Developer – Eightbit / Dzangolab**  
+*Sep 2023 – Jan 2025*  
+- Developed internal tools (LMS, legal systems, SaaS) with modern JS/TS stacks  
+- Led a team in feature delivery, task breakdown, and sprint planning  
+- Built collaborative tools (Markdown editors, visualizations) from scratch  
+- Containerized apps using Docker for CI/CD workflows  
+- Collaborated cross-functionally for product, UX, and backend integration
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NikanKhadka&theme=monokai" alt="nikankhadka trophies" />
-  </a>
-</p>
+**Full-Stack Developer – Softechtonic**  
+*Feb 2023 – Jul 2023*  
+- Built Doctor & Course Management systems using **Express.js (TypeScript)**  
+- Created secure, scalable APIs with **JWT**, **OAuth2**, and database abstraction  
+- Applied **Redux Toolkit** for state management in complex frontend modules  
+- Contributed to project planning, API documentation, and unit testing (Jest)  
+- Acted as a liaison between developers and research teams to ensure clean code and clear communication
 
 ---
 
-### 📊 GitHub Stats
+### 🧠 What I Know
+
+- **Frontend:** React, Next.js, Redux, Redux Toolkit, Zustand, HTML/CSS, Tailwind  
+- **Backend:** Node.js, Express, NestJS, MongoDB, MySQL, PostgreSQL  
+- **Tools & DevOps:** Docker, Git, Postman, Swagger, Jest, CI/CD  
+- **Workflow:** Agile development, project scoping, team leadership, sprint planning
+
+---
+
+### 📫 Get in Touch
+
+- Email: **nikan.khadka.925@gmail.com**  
+- [LinkedIn](https://www.linkedin.com/in/nikan-khadka-6b9340212/)  
+- [Instagram](https://www.instagram.com/nikan_khadka/)  
+- [Facebook](https://www.facebook.com/Nikankhadka)
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikanKhadka&show_icons=true&count_private=true&include_all_commits=true&theme=swift" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=NikanKhadka&theme=highcontrast" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NikanKhadka&show_icons=true&count_private=true&theme=swift" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=NikanKhadka&theme=swift" width="48%" />
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+### 🏆 GitHub Achievements
 
-![snake gif](https://github.com/NikanKhadka/NikanKhadka/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NikanKhadka&theme=flat&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+### 📍 Open to New Opportunities
+
+Looking for challenging roles in full-stack or backend development. I bring technical depth, leadership, and a collaborative mindset to every team I join.
